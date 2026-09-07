@@ -40,7 +40,7 @@ Durante a simulação, foram observados os seguintes resultados:
 
 Projeto disponível no Wokwi:
 
-https://wokwi.com/projects/365421666018061313
+https://wokwi.com/projects/474465837297046529
 
 ## Autor
 
